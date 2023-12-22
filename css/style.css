@@ -458,7 +458,7 @@ a:hover {
     border-radius: 0;
   }
   .navigation .dropdown-menu {
-    text-align: center;
+    text-align: right;
   }
   .navigation .navbar-light .navbar-nav .nav-link {
     padding: 10px 20px;
